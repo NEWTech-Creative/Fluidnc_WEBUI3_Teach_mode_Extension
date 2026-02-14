@@ -80,14 +80,14 @@ Teach Mode allows you to:
 
 
 
-### Main Interface
-![Main Interface](dist/Slider extension.png)
+## Main Interface
+![Main Interface](dist/Slider%20extension.png)
 
-### Setup 1
-![Setup in Extensions](dist/Slider extension setup 1.png)
+## Setup 1
+![Setup in Extensions](dist/Slider%20extension%20setup%201.png)
 
-### Setup 2
-![Setup in Extensions](dist/Slider extension setup 2.png)
+## Setup 2
+![Setup in Extensions](dist/Slider%20extension%20setup%202.png)
 
 
 Basic flow (high level):
