@@ -80,8 +80,14 @@ Teach Mode allows you to:
 
 
 
-> Coming soon.
+### Main Interface
+![Main Interface](dist/Slider extension.png)
 
+### Setup 1
+![Setup in Extensions](dist/Slider extension setup 1.png)
+
+### Setup 2
+![Setup in Extensions](dist/Slider extension setup 2.png)
 
 
 Basic flow (high level):
